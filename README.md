@@ -12,6 +12,8 @@ Developers:
 <!-- ![Variant3](https://github.com/JuanMora328/BACKEND_CEOCOL/assets/69485570/77d751b2-fb02-452e-b7c7-70b1bd6f7091) -->
 <!-- ![Variant3](https://github.com/JuanMora328/BACKEND_CEOCOL/assets/69485570/b6e05482-3c72-4c6c-862c-39e05d7023d1) -->
 <!-- ![Ceocol 400 400](https://github.com/JuanMora328/BACKEND_CEOCOL/assets/69485570/d7827d31-ddbc-4454-ba04-2e29ce98e9e0) -->
+![Variant3](https://github.com/JuanMora328/BACKEND_CEOCOL/assets/69485570/49486d09-c94d-4432-b4a3-8a44e6e7ae1d)
+
 
 
 
